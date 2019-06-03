@@ -1,0 +1,6 @@
+ser-agent: *
+Disallow: /admin/
+Allow: /
+
+Sitemap: http://www.aksinterior.com/sitemap.xml
+
